@@ -1,5 +1,7 @@
 name: Czech
 
+locale: cs_CZ
+
 skip: ["přibližně", "v"]
 
 monday:

@@ -1,5 +1,7 @@
 name: Ukrainian
 
+locale: uk_UA
+
 skip: ["близько", "о", "об", "і"]
 
 monday:

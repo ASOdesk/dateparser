@@ -1,5 +1,7 @@
 name: German
 
+locale: de_DE
+
 skip: ["um", "uhr", "etwa", "und"]
 
 monday:

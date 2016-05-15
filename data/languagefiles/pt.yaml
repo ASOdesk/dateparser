@@ -1,5 +1,7 @@
 name: Portuguese
 
+locale: pt_PT
+
 skip: ["de", "cerca", "e", "às"]
 pertain: ["de"]
 

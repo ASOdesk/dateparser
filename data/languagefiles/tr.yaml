@@ -1,4 +1,7 @@
 name: Turkish
+
+locale: tr_TR
+
 skip: ["yaklaşık", "ve"]
 
 monday:

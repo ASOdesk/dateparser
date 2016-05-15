@@ -1,5 +1,7 @@
 name: Russian
 
+locale: ru_RU
+
 skip: ["около", "в", "и"]
 
 monday:

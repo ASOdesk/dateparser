@@ -1,5 +1,7 @@
 name: Persian
 
+locale: fa_IR
+
 monday:
     - دوشنبه
     - د.

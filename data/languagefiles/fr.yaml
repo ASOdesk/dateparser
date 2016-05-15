@@ -1,5 +1,7 @@
 name: French
 
+locale: fr_FR
+
 skip: ["le", "environ", "et", "à", "er"]
 
 monday:

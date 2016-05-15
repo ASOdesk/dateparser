@@ -1,4 +1,7 @@
 name: Vietnamese
+
+locale: vi_VN
+
 pertain: ['lúc']
 
 monday:

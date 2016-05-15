@@ -1,6 +1,8 @@
 name: Japanese
 no_word_spacing: True
 
+locale: ja_JP
+
 skip: ["約"]
 
 monday:

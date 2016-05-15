@@ -1,5 +1,7 @@
 name: Dutch
 
+locale: nl_NL
+
 skip: ["om"]
 
 monday:

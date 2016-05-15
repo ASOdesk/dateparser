@@ -1,5 +1,7 @@
 name: Spanish
 
+locale: es_ES
+
 skip: ["de", "del", "cerca", "y", "a las", "en"]
 pertain: ["de", "del"]
 

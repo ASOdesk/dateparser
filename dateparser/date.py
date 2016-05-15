@@ -12,6 +12,7 @@ from dateparser.date_parser import date_parser
 from dateparser.freshness_date_parser import freshness_date_parser
 from dateparser.languages.loader import LanguageDataLoader
 from dateparser.languages.detection import AutoDetectLanguage, ExactLanguages
+from dateparser.utils.locales import strptime
 from dateparser.conf import apply_settings
 
 
@@ -111,7 +112,7 @@ def get_last_day_of_month(year, month):
     return calendar.monthrange(year, month)[1]
 
 
-def parse_with_formats(date_string, date_formats):
+def parse_with_formats(date_string, date_formats, locale='en_US'):
     """ Parse with formats and return a dictionary with 'period' and 'obj_date'.
 
     :returns: :class:`datetime.datetime`, dict or None
@@ -120,7 +121,7 @@ def parse_with_formats(date_string, date_formats):
     period = 'day'
     for date_format in date_formats:
         try:
-            date_obj = datetime.strptime(date_string, date_format)
+            date_obj = strptime(date_string, date_format, locale)
         except ValueError:
             continue
         else:
@@ -164,9 +165,9 @@ class _DateLanguageParser(object):
 
     def _parse(self):
         for parser in (
+            self._try_given_formats,
             self._try_timestamp,
             self._try_freshness_parser,
-            self._try_given_formats,
             self._try_dateutil_parser,
             self._try_hardcoded_formats,
         ):
@@ -200,7 +201,13 @@ class _DateLanguageParser(object):
         if not self.date_formats:
             return
 
-        return parse_with_formats(self._get_translated_date_with_formatting(), self.date_formats)
+        date = parse_with_formats(self.date_string, self.date_formats, self.language.info['locale'])
+        if not date['date_obj']:
+            date = parse_with_formats(
+                self._get_translated_date_with_formatting(),
+                self.date_formats,
+            )
+        return date
 
     def _try_hardcoded_formats(self):
         hardcoded_date_formats = [
@@ -210,8 +217,13 @@ class _DateLanguageParser(object):
             '%A, %B %d, %Y',
         ]
         try:
-            return parse_with_formats(
-                self._get_translated_date_with_formatting(), hardcoded_date_formats)
+            date = parse_with_formats(self.date_string, hardcoded_date_formats)
+            if not date['date_obj']:
+                date = parse_with_formats(
+                    self._get_translated_date_with_formatting(),
+                    hardcoded_date_formats,
+                )
+            return date
         except TypeError:
             return None
 

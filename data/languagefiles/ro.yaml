@@ -1,5 +1,7 @@
 name: Romanian
 
+locale: ro_RO
+
 skip: ["la", "de"]
 
 monday:

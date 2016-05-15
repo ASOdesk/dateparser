@@ -1,5 +1,7 @@
 name: Arabic
 
+locale: ar_SA
+
 skip: ['الساعة', 'مساءً', 'في', 'هـ']
 
 monday:

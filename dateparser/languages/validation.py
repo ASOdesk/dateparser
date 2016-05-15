@@ -11,7 +11,7 @@ class LanguageValidator(object):
         'name', 'skip', 'pertain', 'simplifications', 'no_word_spacing', 'ago', 'in',
         'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday',
         'january', 'february', 'march', 'april', 'may', 'june', 'july',
-        'august', 'september', 'october', 'november', 'december',
+        'august', 'september', 'october', 'november', 'december', 'locale',
         'year', 'month', 'week', 'day', 'hour', 'minute', 'second'
     ]
 

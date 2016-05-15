@@ -1,4 +1,7 @@
 name: Tagalog
+
+locale: tl_PH
+
 skip: ["noong", "noon", "sa", "ganap", "na"]
 
 monday:

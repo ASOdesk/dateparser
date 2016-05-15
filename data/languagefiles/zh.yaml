@@ -1,6 +1,8 @@
 name: Chinese
 no_word_spacing: True
 
+locale: zh_CN
+
 skip: ["约"]
 
 monday:

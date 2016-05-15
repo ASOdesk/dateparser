@@ -1,5 +1,7 @@
 name: Indonesian
 
+locale: id_ID
+
 skip: ["tanggal", "pukul", "yang"]
 
 monday:

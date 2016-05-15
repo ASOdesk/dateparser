@@ -1,5 +1,7 @@
 name: Belarusian
 
+locale: be_BY
+
 skip: ["каля", "у", "ў", "і"]
 
 monday:

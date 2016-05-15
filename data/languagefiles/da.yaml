@@ -1,5 +1,7 @@
 name: Danish
 
+locale: da_DK
+
 skip: ["kl", "kl.", "cirka", "d."]
 
 monday:

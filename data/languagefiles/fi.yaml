@@ -1,5 +1,7 @@
 name: Finnish
 
+locale: fi_FI
+
 skip: []
 pertain: []
 

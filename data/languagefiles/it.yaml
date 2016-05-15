@@ -1,5 +1,7 @@
 name: Italian
 
+locale: it_IT
+
 skip: ["circa", "e"]
 
 monday:

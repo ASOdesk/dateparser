@@ -1,5 +1,7 @@
 name: Thai
 
+locale: th_TH
+
 skip: ['เวลา', 'น.', 'เมื่อ ']
 
 monday:

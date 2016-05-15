@@ -1,5 +1,7 @@
 name: Polish
 
+locale: pl_PL
+
 skip: ['r.', 'roku', 'w', 'o', 'i']
 
 monday:
