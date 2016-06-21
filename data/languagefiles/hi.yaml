@@ -1,0 +1,65 @@
+name: Hindi
+
+skip: []
+
+monday:
+    - सोमवार
+tuesday:
+    - मंगलवार
+wednesday:
+    - बुधवार
+thursday:
+    - गुरुवार
+friday:
+    - शुक्रवार
+saturday:
+    - शनिवार
+sunday:
+    - रविवार
+
+january:
+    - जनवरी
+february:
+    - फ़रवरी
+march:
+    - मार्च
+april:
+    - अप्रैल
+may:
+    - मई
+june:
+    - जून
+july:
+    - जुलाई
+august:
+    - अगस्त
+september:
+    - सितंबर
+october:
+    - अक्तूबर
+november:
+    - नवंबर
+december:
+    - दिसंबर
+
+year:
+    - वर्ष
+month:
+    - महीने
+week:
+    - सप्ताह
+day:
+    - दिन
+hour:
+    - घंटे
+minute:
+    - मिनट
+second:
+    - दूसरे
+    - सेकंड
+
+ago:
+    - पहले
+    - वापस
+in:
+    - भीतर

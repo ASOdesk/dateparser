@@ -352,6 +352,21 @@ class TestDateParser(BaseTestCase):
         param('١٦ يونيو، ٢٠١٦', datetime(2016, 6, 16, 0, 0)),
         # Korean
         param('2016년 6월 18일', datetime(2016, 6, 18, 0, 0)),
+        # Hindi
+        param('27 अगस्त 2014', datetime(2014, 8, 27, 0, 0)),
+        param('8 दिसंबर 2014', datetime(2014, 12, 8, 0, 0)),
+        param('23 फ़रवरी 2014', datetime(2014, 2, 23, 0, 0)),
+        param('10 सितंबर 2014', datetime(2014, 9, 10, 0, 0)),
+        param('11 अक्तूबर 2014', datetime(2014, 10, 11, 0, 0)),
+        param('12 नवंबर 2014', datetime(2014, 11, 12, 0, 0)),
+        param('16 जनवरी 2014', datetime(2014, 1, 16, 0, 0)),
+        param('1 जून 2014', datetime(2014, 6, 1, 0, 0)),
+        param('25 अप्रैल 2014', datetime(2014, 4, 25, 0, 0)),
+        param('19 मई 2015', datetime(2015, 5, 19, 0, 0)),
+        param('2 मार्च 2015', datetime(2015, 3, 2, 0, 0)),
+        param('1 जुलाई 2015', datetime(2015, 7, 1, 0, 0)),
+
+
     ])
     def test_dates_parsing(self, date_string, expected):
         self.given_utcnow(datetime(2012, 11, 13))  # Tuesday
