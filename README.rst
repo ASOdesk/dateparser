@@ -146,6 +146,8 @@ Supported languages
 * Vietnamese
 
 Tested on dates with the Play Store app
+===================
+
 * Greek
 * Korean
 * Norwegian
