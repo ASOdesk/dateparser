@@ -1,0 +1,69 @@
+name: Swedish
+
+skip: []
+
+monday:
+    - måndag
+tuesday:
+    - tisdag
+wednesday:
+    - onsdag
+thursday:
+    - torsdag
+friday:
+    - fredag
+saturday:
+    - lördag
+sunday:
+    - söndag
+
+january:
+    - januari
+february:
+    - februari
+march:
+    - mars
+april:
+    - april
+may:
+    - maj
+june:
+    - juni
+july:
+    - juli
+august:
+    - augusti
+september:
+    - september
+october:
+    - oktober
+november:
+    - november
+december:
+    - december
+
+year:
+    - år
+month:
+    - månad
+    - månader
+week:
+    - vecka
+    - veckor
+day:
+    - dag
+    - dagar
+hour:
+    - timme
+    - timmar
+minute:
+    - minut
+    - minuter
+second:
+    - andra
+    - sekunder
+
+ago:
+    - tillbaka
+in:
+    - Inom

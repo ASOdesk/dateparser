@@ -365,8 +365,11 @@ class TestDateParser(BaseTestCase):
         param('19 मई 2015', datetime(2015, 5, 19, 0, 0)),
         param('2 मार्च 2015', datetime(2015, 3, 2, 0, 0)),
         param('1 जुलाई 2015', datetime(2015, 7, 1, 0, 0)),
-
-
+        # Swedish
+        param('27 augusti 2014', datetime(2014, 8, 27, 0, 0)),
+        param('7 mars 2011', datetime(2011, 3, 7, 0, 0)),
+        param('30 januari 2015', datetime(2015, 1, 30, 0, 0)),
+        param('28 februari 2015', datetime(2015, 2, 28, 0, 0)),
     ])
     def test_dates_parsing(self, date_string, expected):
         self.given_utcnow(datetime(2012, 11, 13))  # Tuesday
