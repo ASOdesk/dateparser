@@ -131,7 +131,6 @@ Supported languages
 * Finnish
 * French
 * German
-* Greek
 * Indonesian
 * Italian
 * Japanese
@@ -145,6 +144,13 @@ Supported languages
 * Turkish
 * Ukrainian
 * Vietnamese
+
+Tested on dates with the Play Store app
+* Greek
+* Korean
+* Norwegian
+* Swedish
+* Hindi
 
 
 Supported Calendars
