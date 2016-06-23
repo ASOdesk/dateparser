@@ -370,6 +370,18 @@ class TestDateParser(BaseTestCase):
         param('7 mars 2011', datetime(2011, 3, 7, 0, 0)),
         param('30 januari 2015', datetime(2015, 1, 30, 0, 0)),
         param('28 februari 2015', datetime(2015, 2, 28, 0, 0)),
+        # Norwegian
+        param('5. januar 2014', datetime(2014, 1, 5, 0, 0)),
+        param('12. februar 2014', datetime(2014, 2, 12, 0, 0)),
+        param('12. mars 2013', datetime(2013, 3, 12, 0, 0)),
+        param('4. april 2014', datetime(2014, 4, 4, 0, 0)),
+        param('8. mai 2016', datetime(2016, 5, 8, 0, 0)),
+        param('11. juni 2012', datetime(2012, 6, 11, 0, 0)),
+        param('29. juli 2012', datetime(2012, 7, 29, 0, 0)),
+        param('18. august 2012', datetime(2012, 8, 18, 0, 0)),
+        param('1. september 2012', datetime(2012, 9, 1, 0, 0)),
+        param('6. oktober 2014', datetime(2014, 10, 6, 0, 0)),
+        param('28. desember 2014', datetime(2014, 12, 28, 0, 0)),
     ])
     def test_dates_parsing(self, date_string, expected):
         self.given_utcnow(datetime(2012, 11, 13))  # Tuesday
