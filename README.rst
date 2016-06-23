@@ -145,7 +145,9 @@ Supported languages
 * Ukrainian
 * Vietnamese
 
-Tested on dates from play.google.com
+Tested on dates from play.google.com_
+.. _play.google.com: https://play.google.com/store
+
 ===================
 
 * Greek
