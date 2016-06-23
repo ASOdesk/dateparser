@@ -1,0 +1,69 @@
+name: Norwegian
+
+skip: []
+
+monday:
+    - mandag
+tuesday:
+    - tirsdag
+wednesday:
+    - onsdag
+thursday:
+    - torsdag
+friday:
+    - fredag
+saturday:
+    - lørdag
+sunday:
+    - søndag
+
+january:
+    - januar
+february:
+    - februar
+march:
+    - mars
+april:
+    - april
+may:
+    - mai
+june:
+    - juni
+july:
+    - juli
+august:
+    - august
+september:
+    - september
+october:
+    - oktober
+november:
+    - november
+december:
+    - desember
+
+year:
+    - år
+month:
+    - måned
+    - måneder
+week:
+    - uke
+    - uker
+day:
+    - dag
+    - dager
+hour:
+    - time
+    - timer
+minute:
+    - minutt
+    - minutter
+second:
+    - andre
+    - sekunder
+
+ago:
+    - tilbake
+in:
+    - Innenfor

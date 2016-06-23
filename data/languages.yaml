@@ -18,6 +18,7 @@ it: !include languagefiles/it.yaml
 kr: !include languagefiles/kr.yaml
 ja: !include languagefiles/ja.yaml
 nl: !include languagefiles/nl.yaml
+nn: !include languagefiles/nn.yaml
 pl: !include languagefiles/pl.yaml
 pt: !include languagefiles/pt.yaml
 ro: !include languagefiles/ro.yaml
