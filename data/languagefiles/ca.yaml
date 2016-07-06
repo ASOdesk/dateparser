@@ -1,0 +1,79 @@
+name: Catalan
+
+skip: ["de", "del", "a prop", "i", "a les", "a"]
+pertain: ["de", "del"]
+
+monday:
+    - dilluns
+tuesday:
+    - dimarts
+wednesday:
+    - dimecres
+thursday:
+    - dijous
+friday:
+    - divendres
+saturday:
+    - dissabte
+sunday:
+    - diumenge
+
+january:
+    - gener
+february:
+    - febrer
+march:
+    - març
+april:
+    - abril
+    - d'abril
+may:
+    - maig
+june:
+    - juny
+july:
+    - juliol
+august:
+    - d'agost
+    - agost
+september:
+    - setembre
+october:
+    - d'octubre
+    - octubre
+november:
+    - novembre
+december:
+    - desembre
+
+year:
+    - any
+    - anys
+month:
+    - mes
+    - mesos
+week:
+    - setmana
+    - setmanes
+day:
+    - dia
+    - dies
+hour:
+    - hora
+    - hores
+minute:
+    - minut
+    - minuts
+second:
+    - segon
+    - segons
+
+ago:
+    - fa
+in:
+    - a
+
+simplifications:
+    - abans d'ahir: 2 dia
+    - ahir: 1 dia
+    - avui: 0 dia
