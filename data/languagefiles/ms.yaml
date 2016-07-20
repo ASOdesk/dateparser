@@ -1,0 +1,66 @@
+name: Malay
+
+skip: []
+pertain: []
+
+monday:
+    - isnin
+tuesday:
+    - selasa
+wednesday:
+    - rabu
+thursday:
+    - khamis
+friday:
+    - jumaat
+saturday:
+    - sabtu
+sunday:
+    - ahad
+
+january:
+    - januari
+february:
+    - februari
+march:
+    - mac
+april:
+    - april
+may:
+    - mei
+june:
+    - jun
+july:
+    - julai
+august:
+    - ogos
+september:
+    - september
+october:
+    - oлtober
+november:
+    - november
+december:
+    - disember
+
+year:
+    - tahun
+month:
+    - bulan
+week:
+    - minggu
+day:
+    - hari
+hour:
+    - jam
+minute:
+    - minit
+second:
+    - kedua
+    - saat
+
+ago:
+    - lalu
+in:
+    - dalam
+    

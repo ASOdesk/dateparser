@@ -18,6 +18,7 @@ id: !include languagefiles/id.yaml
 it: !include languagefiles/it.yaml
 kr: !include languagefiles/kr.yaml
 ja: !include languagefiles/ja.yaml
+ms: !include languagefiles/ms.yaml
 nl: !include languagefiles/nl.yaml
 nn: !include languagefiles/nn.yaml
 pl: !include languagefiles/pl.yaml
@@ -26,6 +27,7 @@ ro: !include languagefiles/ro.yaml
 ru: !include languagefiles/ru.yaml
 th: !include languagefiles/th.yaml
 sv: !include languagefiles/sv.yaml
+th: !include languagefiles/th.yaml
 tl: !include languagefiles/tl.yaml
 tr: !include languagefiles/tr.yaml
 uk: !include languagefiles/uk.yaml

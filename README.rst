@@ -145,7 +145,6 @@ Supported languages
 * Ukrainian
 * Vietnamese
 
-===================
 
 Tested on dates from play.google.com_
 
@@ -158,6 +157,7 @@ Tested on dates from play.google.com_
 * Norwegian
 * Swedish
 * Hindi
+* Malay
 
 
 Supported Calendars
