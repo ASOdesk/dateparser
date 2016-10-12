@@ -1,0 +1,67 @@
+name: Latvian
+
+skip: ["laikā", "pēc"]
+pertain: []
+monday:
+    - pirmdiena
+tuesday:
+    - otrdiena
+wednesday:
+    - trešdiena
+thursday:
+    - ceturtdiena
+friday:
+    - piektdiena
+saturday:
+    - sestdiena
+sunday:
+    - svētdiena
+
+january:
+    - janvāris
+february:
+    - februāris
+march:
+    - marts
+april:
+    - aprīlis
+may:
+    - maijs
+june:
+    - jūnijs
+july:
+    - jūlijs
+august:
+    - augusts
+september:
+    - septembris
+october:
+    - oktobris
+november:
+    - novembris
+december:
+    - decembris
+year:
+    - gada
+    - gads
+month:
+    - mēnesis
+    - mēneša
+week:
+    - nedēļa
+    - nedēļas
+day:
+    - diena
+hour:
+    - stundas
+    - stunda
+minute:
+    - minūte
+second:
+    - sekundes
+    - otrais
+
+ago:
+    - pirms
+in:
+    - par

@@ -1,0 +1,75 @@
+name: Slovenian
+
+skip: []
+pertain: []
+
+monday:
+    - ponedeljek
+tuesday:
+    - torek
+wednesday:
+    - sreda
+thursday:
+    - četrtek
+friday:
+    - petek
+saturday:
+    - sobota
+sunday:
+    - nedelja
+
+january:
+    - januar
+february:
+    - februar
+march:
+    - marec
+april:
+    - april
+may:
+    - maj
+june:
+    - junij
+july:
+    - julij
+august:
+    - avgust
+september:
+    - september
+october:
+    - oktober
+november:
+    - november
+december:
+    - december
+year:
+    - leto
+    - letih
+month:
+    - mesec
+    - meseca
+    - mesecih
+week:
+    - teden
+    - tedna
+    - tednov
+day:
+    - dan
+    - dni
+hour:
+    - ur
+    - ura
+    - urah
+minute:
+    - minut
+    - minute
+    - minutah
+second:
+    - drugi
+    - sekund
+    - sekundah
+
+ago:
+    - nazaj
+in:
+    - v

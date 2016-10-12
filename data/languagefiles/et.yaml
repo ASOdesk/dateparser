@@ -1,0 +1,73 @@
+name: Estonian
+
+skip: []
+pertain: []
+monday:
+    - esmaspäev
+tuesday:
+    - teisipäev
+wednesday:
+    - kolmapäev
+thursday:
+    - neljapäev
+friday:
+    - reede
+saturday:
+    - laupäev
+sunday:
+    - pühapäev
+
+january:
+    - jaanuar
+february:
+    - veebruar
+march:
+    - märts
+april:
+    - aprill
+may:
+    - mai
+june:
+    - juuni
+july:
+    - juuli
+august:
+    - august
+september:
+    - september
+october:
+    - oktoober
+november:
+    - november
+december:
+    - detsember
+
+year:
+    - aasta
+    - aastat
+month:
+    - kuu
+    - kuud
+week:
+    - nädal
+    - nädala
+    - nädalat
+day:
+    - päev
+    - päeva
+hour:
+    - tööaeg
+    - tund
+    - tundi
+minute:
+    - minut
+    - minutit
+second:
+    - sekundit
+    - teine
+
+ago:
+    - tagasi
+
+in:
+    - eest

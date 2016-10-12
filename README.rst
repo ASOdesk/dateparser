@@ -140,7 +140,7 @@ Supported languages
 * Romanian
 * Russian
 * Spanish
-* Thai
+* Thai (be careful with calendar - it needs -543 years before parse)
 * Turkish
 * Ukrainian
 * Vietnamese
@@ -158,6 +158,14 @@ Tested on dates from play.google.com_
 * Swedish
 * Hindi
 * Malay
+* Estonian
+* Latvian
+* Lithuanian
+* Hungarian
+* Serbian
+* Slovenian
+* Slovak
+* Bulgarian
 
 
 Supported Calendars

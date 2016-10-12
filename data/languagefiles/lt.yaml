@@ -1,0 +1,86 @@
+name: Lithuanian
+
+skip: []
+pertain: []
+monday:
+    - pirmadienis
+tuesday:
+    - antradienis
+wednesday:
+    - trečiadienis
+thursday:
+    - ketvirtadienis
+friday:
+    - penktadienis
+saturday:
+    - šeštadienis
+sunday:
+    - sekmadienis
+
+january:
+    - sausis
+    - sausio
+february:
+    - vasaris
+    - vasario
+march:
+    - kovas
+    - kovo
+april:
+    - balandis
+    - balandžio
+may:
+    - gegužės
+    - gegužės
+june:
+    - birželis
+    - birželio
+july:
+    - liepa
+    - liepos
+august:
+    - rugpjūtis
+    - rugpjūčio
+september:
+    - rugsėjis
+    - rugsėjo
+october:
+    - spalis
+    - spalio
+november:
+    - lapkritis
+    - lapkričio
+december:
+    - gruodis
+    - gruodžio
+
+year:
+    - metai
+    - metų
+    - m.
+month:
+    - mėnuo
+    - mėnesio
+week:
+    - savaitė
+    - savaitės
+    - savaičių
+day:
+    - diena
+    - dienų
+    - d.
+hour:
+    - valandos
+    - valanda
+minute:
+    - minutė
+    - minučių
+    - min
+second:
+    - sekundžių
+    - antra
+
+ago:
+    - prieš
+in:
+    - per

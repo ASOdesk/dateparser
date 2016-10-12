@@ -1,0 +1,89 @@
+name: Slovak
+
+skip: []
+pertain: []
+
+monday:
+    - pondelok
+tuesday:
+    - utorok
+wednesday:
+    - streda
+thursday:
+    - štvrtok
+friday:
+    - piatok
+saturday:
+    - sobota
+sunday:
+    - nedeľa
+
+january:
+    - január
+    - januára
+february:
+    - február
+    - februára
+march:
+    - marec
+    - marca
+april:
+    - apríl
+    - apríla
+may:
+    - máj
+    - mája
+june:
+    - jún
+    - júna
+july:
+    - júl
+    - júla
+august:
+    - august
+    - augusta
+september:
+    - septembra
+october:
+    - október
+    - októbra
+november:
+    - november
+    - novembra
+    - novembre
+december:
+    - december
+    - decembra
+year:
+    - rok
+    - rokov
+month:
+    - mesiac
+    - mesiaca
+    - mesiacoch
+week:
+    - týždeň
+    - týždňa
+    - týždňov
+day:
+    - deň
+    - dní
+hour:
+    - hodiny
+    - hodina
+    - hodín
+minute:
+    - minút
+    - minúta
+    - minútami
+    - zápis
+second:
+    - sekundy
+    - druhý
+    - sekúnd
+ago:
+    - pred
+in:
+    - za
+    - v
+    

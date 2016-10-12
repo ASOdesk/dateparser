@@ -1,0 +1,69 @@
+name: Serbian
+
+skip: []
+pertain: []
+monday:
+    - понедељак
+tuesday:
+    - уторак
+wednesday:
+    - среда
+thursday:
+    - четвртак
+friday:
+    - петак
+saturday:
+    - субота
+sunday:
+    - недеља
+
+january:
+    - јануар
+february:
+    - фебруар
+march:
+    - март
+april:
+    - април
+may:
+    - мај
+june:
+    - јун
+july:
+    - јул
+august:
+    - август
+september:
+    - септембар
+october:
+    - октобар
+november:
+    - новембар
+december:
+    - децембар
+year:
+    - година
+month:
+    - месец
+    - месеца
+week:
+    - недеља
+day:
+    - дан
+    - дана
+hour:
+    - сати
+    - сат
+minute:
+    - минут
+    - минута
+second:
+    - секунде
+    - други
+    - секунди
+
+ago:
+    - пре
+in:
+    - за
+    - у

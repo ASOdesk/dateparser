@@ -1,0 +1,63 @@
+name: Hungarian
+
+skip: ["a"]
+pertain: []
+monday:
+    - hétfő
+tuesday:
+    - kedd
+wednesday:
+    - szerda
+thursday:
+    - csütörtök
+friday:
+    - péntek
+saturday:
+    - szombat
+sunday:
+    - vasárnap
+
+january:
+    - január
+february:
+    - február
+march:
+    - március
+april:
+    - április
+may:
+    - május
+june:
+    - június
+july:
+    - július
+august:
+    - augusztus
+september:
+    - szeptember
+october:
+    - október
+november:
+    - november
+december:
+    - december
+year:
+    - év
+month:
+    - hónap
+week:
+    - hét
+day:
+    - nap
+hour:
+    - óra
+minute:
+    - perc
+    - jegyzőkönyv
+second:
+    - másodperc
+    - második
+ago:
+    - ezelőtt
+in:
+    - mert

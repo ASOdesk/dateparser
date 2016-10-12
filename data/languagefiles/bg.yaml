@@ -1,0 +1,69 @@
+name: Bulgarian
+
+skip: []
+pertain: []
+
+monday:
+    - понеделник
+tuesday:
+    - вторник
+wednesday:
+    - сряда
+thursday:
+    - четвъртък
+friday:
+    - петък
+saturday:
+    - събота
+sunday:
+    - неделя
+
+january:
+    - януари
+february:
+    - февруари
+march:
+    - март
+april:
+    - април
+may:
+    - май
+june:
+    - юни
+july:
+    - юли
+august:
+    - август
+september:
+    - септември
+october:
+    - октомври
+november:
+    - ноември
+december:
+    - декември
+year:
+    - година
+    - г.
+month:
+    - месец
+    - на месеца
+week:
+    - седмица
+day:
+    - ден
+hour:
+    - час
+    - часа
+minute:
+    - минут
+    - минути
+second:
+    - втори
+    - секунди
+
+ago:
+    - преди
+in:
+    - за
+    
