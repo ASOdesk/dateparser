@@ -27,39 +27,51 @@ sunday:
 january:
     - Leden
     - Led
+    - ledna
 february:
     - Únor
     - Úno
+    - února
 march:
     - Březen
     - Bře
+    - března
 april:
     - Duben
     - Dub
+    - dubna
 may:
     - Květen
     - Kvě
+    - května
 june:
     - Červen
     - Čer
+    - června
 july:
     - Červenec
     - Črc
+    - července
 august:
     - Srpen
     - Srp
+    - srpna
 september:
     - Září
     - Zář
+    - září
 october:
     - Říjen
     - Říj
+    - října
 november:
     - Listopad
     - Lis
+    - listopadu
 december:
     - Prosinec
     - Pro
+    - prosince
 
 year:
     - rok
