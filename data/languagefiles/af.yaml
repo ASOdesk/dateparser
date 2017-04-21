@@ -1,0 +1,87 @@
+name: Afrikaans
+
+skip: ["om"]
+
+monday:
+    - Maandag
+    - Ma
+tuesday:
+    - Dinsdag
+    - Di
+wednesday:
+    - Woensdag
+    - Wo
+thursday:
+    - Donderdag
+    - Do
+friday:
+    - Vrydag
+    - Vr
+saturday:
+    - Saterdag
+    - Sa
+sunday:
+    - Sondag
+    - So
+
+january:
+    - Januarie
+    - Jan
+february:
+    - Februarie
+    - Feb
+march:
+    - Maart
+    - Mrt
+april:
+    - April
+    - Apr
+may:
+    - Mei
+june:
+    - Junie
+    - Jun
+july:
+    - Julie
+    - Jul
+august:
+    - Augustus
+    - Aug
+september:
+    - September
+    - Sep
+october:
+    - Oktober
+    - Okt
+november:
+    - November
+    - Nov
+december:
+    - Desember
+    - Des
+
+year:
+    - jaar
+month:
+    - maand
+    - maanden
+week:
+    - week
+    - weke
+day:
+    - dag
+    - dae
+hour:
+    - uur
+minute:
+    - minuut
+    - minute
+second:
+    - tweede
+    - sekonde
+    - sekondes
+
+ago:
+    - gelede
+in:
+    - vir

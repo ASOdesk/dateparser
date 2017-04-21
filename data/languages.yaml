@@ -1,6 +1,7 @@
 base:
     skip: [" ", ".", ",", ";", "-", "/", "'", "|", "@", "[", "]", "，"]
 
+af: !include languagefiles/af.yaml
 ar: !include languagefiles/ar.yaml
 be: !include languagefiles/be.yaml
 bg: !include languagefiles/bg.yaml
