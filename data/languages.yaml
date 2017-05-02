@@ -35,9 +35,11 @@ sl: !include languagefiles/sl.yaml
 sk: !include languagefiles/sk.yaml
 sr: !include languagefiles/sr.yaml
 sv: !include languagefiles/sv.yaml
+sw: !include languagefiles/sw.yaml
 th: !include languagefiles/th.yaml
 tl: !include languagefiles/tl.yaml
 tr: !include languagefiles/tr.yaml
 uk: !include languagefiles/uk.yaml
 vi: !include languagefiles/vi.yaml
 zh: !include languagefiles/zh.yaml
+zu: !include languagefiles/zu.yaml

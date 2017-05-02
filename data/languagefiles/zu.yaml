@@ -1,0 +1,83 @@
+name: Zulu
+
+skip: []
+
+monday:
+    - Msombuluko
+tuesday:
+    - Lwesibili
+wednesday:
+    - Lwesithathu
+thursday:
+    - uLwesine
+friday:
+    - Lwesihlanu
+saturday:
+    - Mgqibelo
+sunday:
+    - Sonto
+
+january:
+    - Januwari
+    - Jan
+february:
+    - Februwari
+    - Feb
+march:
+    - Mashi
+    - Mas
+april:
+    - Apreli
+    - Apr
+may:
+    - Meyi
+    - Mey
+june:
+    - Juni
+    - Jun
+july:
+    - Julayi
+    - Jul
+august:
+    - Agasti
+    - Aga
+september:
+    - Septhemba
+    - Sep
+october:
+    - Okthoba
+    - Okt
+november:
+    - Novemba
+    - Nov
+december:
+    - Disemba
+    - Dis
+
+year:
+    - ngonyaka
+month:
+    - ngenyanga
+week:
+    - ngesonto
+    - amasonto
+day:
+    - usuku
+    - izinsuku
+hour:
+    - ihora
+    - amahora
+    - emahoreni
+minute:
+    - iminithi
+    - amaminithi
+    - emizuzwini
+second:
+    - yesibili
+    - imizuzwana
+
+in:
+    - e
+    - angu
+ago:
+    - Sekwedlule

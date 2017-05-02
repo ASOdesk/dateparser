@@ -1,0 +1,65 @@
+name: Swahili
+
+skip: []
+
+monday:
+    - Jumatatu
+tuesday:
+    - Jumanne
+wednesday:
+    - Jumatano
+thursday:
+    - Alhamisi
+friday:
+    - Ijumaa
+saturday:
+    - Jumamosi
+sunday:
+    - Jumapili
+
+january:
+    - Januari
+february:
+    - Februari
+march:
+    - Machi
+april:
+    - Aprili
+may:
+    - Mei
+june:
+    - Juni
+july:
+    - Julai
+august:
+    - Agosti
+september:
+    - Septemba
+october:
+    - Oktoba
+november:
+    - Novemba
+december:
+    - Desemba
+
+year:
+    - mwaka
+month:
+    - mwezi
+week:
+    - wiki
+day:
+    - siku
+hour:
+    - saa
+    - masaa
+minute:
+    - dakika
+second:
+    - pili
+    - sekunde
+
+ago:
+    - iliyopita
+in:
+    - kwa
