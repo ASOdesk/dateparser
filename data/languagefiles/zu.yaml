@@ -18,39 +18,52 @@ sunday:
     - Sonto
 
 january:
+    - UMasingana
     - Januwari
     - Jan
 february:
+    - Nhlolanja
     - Februwari
     - Feb
 march:
+    - Ndasa
     - Mashi
     - Mas
 april:
+    - Mbasa
+    - Ephreli
     - Apreli
     - Apr
 may:
+    - Nhlaba
     - Meyi
     - Mey
 june:
+    - Nhlangulana
     - Juni
     - Jun
 july:
+    - Ntulikazi
     - Julayi
     - Jul
 august:
+    - Ncwaba
     - Agasti
     - Aga
 september:
+    - Mandulo
     - Septhemba
     - Sep
 october:
+    - Mfumfu
     - Okthoba
     - Okt
 november:
+    - Lwezi
     - Novemba
     - Nov
 december:
+    - Zibandlela
     - Disemba
     - Dis
 
