@@ -17,6 +17,7 @@ fa: !include languagefiles/fa.yaml
 fi: !include languagefiles/fi.yaml
 fr: !include languagefiles/fr.yaml
 hi: !include languagefiles/hi.yaml
+hr: !include languagefiles/hr.yaml
 hu: !include languagefiles/hu.yaml
 id: !include languagefiles/id.yaml
 it: !include languagefiles/it.yaml

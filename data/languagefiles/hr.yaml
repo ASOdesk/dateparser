@@ -1,0 +1,81 @@
+name: Croatian
+
+skip: []
+pertain: []
+monday:
+    - ponedjeljak
+tuesday:
+    - utorak
+wednesday:
+    - srijeda
+thursday:
+    - četvrtak
+friday:
+    - petak
+saturday:
+    - subota
+sunday:
+    - nedjelja
+
+january:
+    - siječanj
+    - siječnja
+february:
+    - veljača
+    - veljače
+march:
+    - ožujak
+    - ožujka
+april:
+    - travanj
+    - travnja
+may:
+    - svibanj
+    - svibnja
+june:
+    - lipanj
+    - lipnja
+july:
+    - srpanj
+    - srpnja
+august:
+    - kolovoz
+    - kolovoza
+september:
+    - rujan
+    - rujna
+october:
+    - listopad
+    - listopada
+november:
+    - studeni
+    - studenog
+    - studenoga
+december:
+    - prosinac
+    - prosinca
+year:
+    - godina
+month:
+    - mjesec
+    - mjeseci
+week:
+    - tjedan
+    - tjedna
+day:
+    - dan
+    - dana
+hour:
+    - sat
+    - sati
+minute:
+    - minuta
+second:
+    - drugo
+    - sekundi
+
+
+ago:
+    - prije
+in:
+    - za
