@@ -1,0 +1,66 @@
+name: Khmer
+no_word_spacing: True
+
+skip: []
+pertain: []
+
+monday:
+    - ច័ន្ទ
+tuesday:
+    - អង្គារ
+wednesday:
+    - ពុធ
+thursday:
+    - ព្រហស្បតិ៍
+friday:
+    - សុក្រ
+saturday:
+    - សៅរ៍
+sunday:
+    - អាទិត្យ
+
+january:
+    - មករា
+february:
+    - កុម្ភៈ
+march:
+    - មីនា
+april:
+    - មេសា
+may:
+    - ឧសភា
+june:
+    - មិថុនា
+july:
+    - កក្កដា
+august:
+    - សីហា
+september:
+    - កញ្ញា
+october:
+    - តុលា
+november:
+    - វិច្ឆិកា
+december:
+    - ធ្នូ
+
+year:
+    - ឆ្នាំ
+month:
+    - ខែ
+week:
+    - សប្ដាហ៍
+day:
+    - ថ្ងៃ
+hour:
+    - ម៉ោង
+minute:
+    - នាទី
+second:
+    - វិនាទី
+
+ago:
+    - ន
+    - នេះ
+in:
+    - ក្រោយ
