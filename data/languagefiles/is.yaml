@@ -1,0 +1,69 @@
+name: Icelandic
+
+skip: []
+
+monday:
+    - mánudagur
+tuesday:
+    - þriðjudagur
+wednesday:
+    - Miðvikudagur
+thursday:
+    - Þriðjudagur
+friday:
+    - föstudagur
+saturday:
+    - laugardagur
+sunday:
+    - sunnudagur
+
+january:
+    - janúar
+february:
+    - febrúar
+march:
+    - mars
+april:
+    - apríl
+may:
+    - maí
+june:
+    - júní
+july:
+    - júlí
+august:
+    - ágúst
+september:
+    - september
+october:
+    - október
+november:
+    - nóvember
+december:
+    - desember
+
+year:
+    - ár
+month:
+    - mánuður
+    - mánuðir
+week:
+    - viku
+    - vikur
+day:
+    - dagur
+    - dagar
+hour:
+    - klukkutíma
+    - klukkan
+minute:
+    - mínútu
+    - mínútur
+second:
+    - annað
+    - sekúndur
+
+ago:
+    - síðan
+in:
+    - í

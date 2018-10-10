@@ -1,0 +1,69 @@
+name: Sinhalese
+
+skip: ['වනදා']
+
+monday:
+    - සඳුදා
+tuesday:
+    - අඟහරුවාදා
+wednesday:
+    - බදාදා
+thursday:
+    - බ්රහස්පතින්දා
+friday:
+    - සිකුරාදා
+saturday:
+    - සෙනසුරාදා
+sunday:
+    - ඉරිදා
+
+january:
+    - ජනවාරි
+february:
+    - පෙබරවාරි
+march:
+    - මාර්තු
+april:
+    - අප්‍රේල්
+may:
+    - මැයි
+june:
+    - ජූනි
+july:
+    - ජූලි
+august:
+    - අගොස්තු
+september:
+    - සැප්තැම්බර්
+october:
+    - ඔක්තෝබර්
+november:
+    - නොවැම්බර්
+december:
+    - දෙසැම්බර්
+
+year:
+    - වසර
+    - අවුරුදු
+month:
+    - මාස
+week:
+    - සතියක්
+    - සති
+day:
+    - දින
+hour:
+    - පැයකට
+    - සවස
+minute:
+    - විනාඩියක්
+    - විනාඩි
+second:
+    - දෙවෙනි එක
+    - තත්පර
+
+ago:
+    - පෙර
+
+in:
+    - ක් ඇතුලත

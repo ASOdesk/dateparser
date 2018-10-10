@@ -16,6 +16,7 @@ et: !include languagefiles/et.yaml
 fa: !include languagefiles/fa.yaml
 fi: !include languagefiles/fi.yaml
 fr: !include languagefiles/fr.yaml
+is: !include languagefiles/is.yaml
 he: !include languagefiles/he.yaml
 hi: !include languagefiles/hi.yaml
 hr: !include languagefiles/hr.yaml
@@ -34,11 +35,13 @@ pl: !include languagefiles/pl.yaml
 pt: !include languagefiles/pt.yaml
 ro: !include languagefiles/ro.yaml
 ru: !include languagefiles/ru.yaml
+si: !include languagefiles/si.yaml
 sl: !include languagefiles/sl.yaml
 sk: !include languagefiles/sk.yaml
 sr: !include languagefiles/sr.yaml
 sv: !include languagefiles/sv.yaml
 sw: !include languagefiles/sw.yaml
+ta: !include languagefiles/ta.yaml
 th: !include languagefiles/th.yaml
 tl: !include languagefiles/tl.yaml
 tr: !include languagefiles/tr.yaml

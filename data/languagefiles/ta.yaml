@@ -1,0 +1,69 @@
+name: Tamil
+
+skip: ['நேரம்']
+
+monday:
+    - திங்கள்
+tuesday:
+    - செவ்வாய்க்கிழமை
+wednesday:
+    - புதன்கிழமை
+thursday:
+    - வியாழக்கிழமை
+friday:
+    - வெள்ளிக்கிழமை
+saturday:
+    - சனிக்கிழமை
+sunday:
+    - ஞாயிறு
+
+january:
+    - ஜனவரி
+february:
+    - பிப்ரவரி
+march:
+    - மார்ச்
+april:
+    - ஏப்ரல்
+may:
+    - மே
+june:
+    - ஜூன்
+july:
+    - ஜூலை
+august:
+    - ஆகஸ்ட்
+september:
+    - செப்டம்பர்
+october:
+    - அக்டோபர்
+november:
+    - நவம்பர்
+december:
+    - டிசம்பர்
+
+year:
+    - வருடம்
+    - ஆண்டுகள்
+month:
+    - மாதம்
+    - மாதங்கள்
+week:
+    - வாரம்
+    - வாரங்கள்
+day:
+    - நாள்
+    - நாட்கள்
+hour:
+    - மணி
+minute:
+    - நிமிடம்
+    - நிமிடங்கள்
+second:
+    - இரண்டாவது
+    - விநாடிகள்
+
+ago:
+    - முன்பு
+in:
+    - சில
