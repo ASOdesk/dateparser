@@ -24,6 +24,7 @@ hu: !include languagefiles/hu.yaml
 id: !include languagefiles/id.yaml
 it: !include languagefiles/it.yaml
 ja: !include languagefiles/ja.yaml
+kk: !include languagefiles/kk.yaml
 km: !include languagefiles/km.yaml
 kr: !include languagefiles/kr.yaml
 lt: !include languagefiles/lt.yaml

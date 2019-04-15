@@ -1,0 +1,70 @@
+name: Kazakh
+
+skip: ["туралы", "бір"]
+
+monday:
+    - дүйсенбі
+tuesday:
+    - Сейсенбі
+    - Вт
+wednesday:
+    - Сәрсенбі
+thursday:
+    - Бейсенбі
+friday:
+    - Жұма
+saturday:
+    - Сенбі
+sunday:
+    - жексенбі
+
+january:
+    - қаңтар
+february:
+    - ақпан
+march:
+    - Наурыз
+april:
+    - Сәуір
+may:
+    - Мамыр
+june:
+    - маусым
+july:
+    - шілде
+august:
+    - Тамыз
+september:
+    - Қыркүйек
+october:
+    - қазан
+november:
+    - қараша
+december:
+    - Желтоқсан
+
+year:
+    - Жыл
+    - Жылдар
+month:
+    - ай
+    - айлар
+week:
+    - апта
+day:
+    - күн
+    - күндер
+hour:
+    - сағат
+minute:
+    - минут
+    - минуттар
+second:
+    - екінші
+    - секундтар
+    - екіншіден
+
+ago:
+    - бұрын
+in:
+    - кезінде
