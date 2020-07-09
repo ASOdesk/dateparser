@@ -1,0 +1,70 @@
+name: Albanian
+
+skip: ['e']
+pertain: []
+monday:
+    - hënë
+tuesday:
+    - martë
+wednesday:
+    - mërkurë
+thursday:
+    - enjte
+friday:
+    - premte
+saturday:
+    - shtunë
+sunday:
+    - diel
+
+january:
+    - janar
+february:
+    - shkurt
+march:
+    - marsh
+    - Mars
+april:
+    - prill
+may:
+    - Mund
+    - majit
+june:
+    - qershor
+july:
+    - korrik
+august:
+    - gusht
+september:
+    - shtator
+october:
+    - tetor
+november:
+    - nëntor
+december:
+    - dhjetor
+
+year:
+    - vit
+    - vite
+month:
+    - muaj
+week:
+    - Java
+    - javë
+day:
+    - dite
+    - ditë
+hour:
+    - orë
+minute:
+    - minutë
+    - minuta
+second:
+    - sekondë
+    - sekonda
+
+ago:
+    - më parë
+in:
+    - brenda

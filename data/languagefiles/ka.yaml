@@ -1,0 +1,63 @@
+name: Georgian
+
+skip: []
+pertain: []
+
+monday:
+    - ორშაბათს
+tuesday:
+    - სამშაბათს
+wednesday:
+    - ოთხშაბათს
+thursday:
+    - ხუთშაბათი
+friday:
+    - პარასკევი
+saturday:
+    - შაბათს
+sunday:
+    - კვირა
+
+january:
+    - იანვარი
+february:
+    - თებერვალი
+march:
+    - მარტი
+april:
+    - აპრილი
+may:
+    - მაისი
+june:
+    - ივნისი
+july:
+    - ივლისი
+august:
+    - აგვისტო
+september:
+    - სექტემბერი
+october:
+    - ოქტომბერი
+november:
+    - ნოემბერი
+december:
+    - დეკემბერი
+
+year:
+    - წელი
+month:
+    - თვე
+week:
+    - კვირა
+day:
+    - დღე
+hour:
+    - საათში
+    - საათები
+minute:
+    - წუთი
+second:
+    - წამი
+
+ago:
+    - წინ
