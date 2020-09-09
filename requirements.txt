@@ -1,5 +1,5 @@
 python-dateutil
-PyYAML
+PyYAML>=5
 regex
 jdatetime
 umalqurra
